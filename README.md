@@ -12,6 +12,8 @@ composer require iraqotpapi/otp
 ```
 
 ## Usage
+
+```bash
 <?php
 
 require 'vendor/autoload.php';
@@ -33,3 +35,4 @@ $response = $client->sendOtp([
 
 // Handle the response
 print_r($response);
+```
