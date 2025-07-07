@@ -25,7 +25,7 @@ $client = new OtpClient('YOUR_API_KEY');
 
 // Send an OTP message
 $response = $client->sendOtp([
-    'to'       => '9647502171212',               // Recipient phone number (E.164 format)
+    'to'       => '9647xxxxxxxxx',               // Recipient phone number (E.164 format)
     'sender'   => 'MySenderID',                  // Approved Sender ID
     'channel'  => 'whatsapp',                    // Primary channel
     'message'  => 'Your OTP Code is 123456',     // OTP message content
