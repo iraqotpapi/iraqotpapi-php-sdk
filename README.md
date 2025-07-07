@@ -10,6 +10,7 @@ A lightweight PHP SDK for sending OTP codes via WhatsApp (with fallback to Teleg
 ```bash
 composer require iraqotpapi/otp
 
+## Usage
 <?php
 
 require 'vendor/autoload.php';
