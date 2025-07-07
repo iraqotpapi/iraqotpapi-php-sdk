@@ -7,8 +7,8 @@
   "prefer-stable": true,
   "authors": [
     {
-      "name": "Your Name",
-      "email": "you@example.com"
+      "name": "IraqOTPAPI",
+      "email": "info@iraqotpapi.com"
     }
   ],
   "autoload": {
