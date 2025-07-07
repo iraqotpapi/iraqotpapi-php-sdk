@@ -1,0 +1,20 @@
+{
+  "name": "iraqotpapi/otp",
+  "description": "PHP SDK for Iraq OTP API (WhatsApp, SMS, Fallback)",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Your Name",
+      "email": "you@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "IraqOTPAPI\\otp\\": "src/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
