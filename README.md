@@ -30,7 +30,7 @@ $response = $client->sendOtp([
     'channel'  => 'whatsapp',                    // Primary channel
     'message'  => 'Your OTP Code is 123456',     // OTP message content
     'fallback' => 'sms',                         // Optional fallback channel
-    'lang'     => 'ku'                           // Optional language (ku, ar, en)
+    'lang'     => 'en'                           // Optional language (ku, ar, en)
 ]);
 
 // Handle the response
