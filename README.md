@@ -1,5 +1,5 @@
 # iraqotpapi-php-sdk
-IraqOTPAPI is the top OTP API provider in Iraq, offering reliable WhatsApp and SMS authentication services.
+IraqOTPAPI is Iraq's leading OTP API provider, offering robust and secure WhatsApp and SMS authentication services tailored specifically for the Iraqi market. Our PHP SDK makes it incredibly simple for developers to integrate reliable one-time password (OTP) functionality into their applications, ensuring secure user verification and transactions. Whether you need to implement OTP for user login, transaction confirmation, or two-factor authentication (2FA), IraqOTPAPI delivers fast and dependable OTP delivery across Iraq, making us the trusted choice for businesses prioritizing secure digital interactions in the region.
 
 # Iraq OTP API – PHP SDK
 
